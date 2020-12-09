@@ -6,11 +6,11 @@
 
 **Frontend Developer** at @Codengage.
 
-My name is Luís **Felipe Leal** de Faria, I'm Brazilian, I'm 23 years old. Software developer since 2016. Currently my stack is more focused on JavaScript/TypeScript applications, however, I am always ready for new challenges.
+My name is Luís **Felipe Leal** de Faria, I'm a 22-year-old Brazilian. I have been a software developer since 2016. Currently, my stack is more focused on JavaScript/TypeScript applications; however, I am always ready for new challenges.
 
 ### **Want to get to know me better?**
 
-Get in touch and let's have a coffee ☕️:
+Get in touch with me and let's have a coffee ☕️:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lealluisf" alt="Linkedin">
