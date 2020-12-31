@@ -2,7 +2,7 @@
 
 # Felipe Leal
 
-**Software Engineer** at UTFPR.
+**Software Engineer** graduated at UTFPR.
 
 **Frontend Developer** at @Codengage.
 
