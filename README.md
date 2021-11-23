@@ -4,9 +4,9 @@
 
 **Software Engineering** graduated at UTFPR.
 
-**Frontend Developer** at @Codengage.
+**Senior Software Engineer** at Luxury Escapes.
 
-My name is Luís **Felipe Leal** de Faria, I'm a 23-year-old Brazilian. I have been a software developer since 2016. Currently, my stack is more focused on JavaScript & TypeScript applications; however, I am always ready for new challenges.
+My name is Luís **Felipe Leal** de Faria, I'm a 24-year-old Brazilian. I have been a software developer since 2016. Currently, my stack is more focused on JavaScript & TypeScript applications; however, I am always ready for new challenges.
 
 ### **Want to get to know me better?**
 
