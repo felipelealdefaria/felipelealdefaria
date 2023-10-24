@@ -16,9 +16,6 @@ Get in touch with me and let's have a coffee ☕️:
   <a href="https://www.linkedin.com/in/lealluisf" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lealluisf" /></a>
 
-  <a href="https://felipelealdefaria.github.io/" alt="Personal WebSite">
-  <img src="https://img.shields.io/badge/-felipelealdefaria.github.io-9177ff?style=for-the-badge&logo=firefox&logoColor=white&link=https://felipelealdefaria.github.io/"/></a>
-
   <a href="mailto:felipelealdefaria@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-felipelealdefaria@gmail.com-ce2d28?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:felipelealdefaria@gmail.com"/></a>
 </p>  
