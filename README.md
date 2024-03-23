@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="450px" max-width="450px" width="450px" align="right" alt="computer ilustration">
 
-# Felipe Leal
-
 **Software Engineering** graduated at UTFPR.
 
 **Senior Software Engineer** at Luxury Escapes.
