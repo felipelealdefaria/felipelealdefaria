@@ -1,19 +1,24 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="450px" max-width="450px" width="450px" align="right" alt="computer ilustration">
+### Hi, I'm Felipe 👋
 
-**Software Engineering** graduated at UTFPR.
+Senior Software Engineer at [Luxury Escapes](https://luxuryescapes.com) in Sydney, building **Voice AI for customer support**: AI agents that answer real phone calls, look up bookings and change them end to end, and hand off to a person when they should.
 
-**Senior Software Engineer** at Luxury Escapes.
+Before that I built the **Cruises** vertical from its first line of code, and helped move customer support from Salesforce to Zendesk. I've been writing software since 2016, mostly in **TypeScript** and **Node.js**, across product, backend and integrations.
 
-My name is Luís **Felipe Leal** de Faria, I'm a 27-year-old Brazilian. I have been a software developer since 2016. Currently, my stack is more focused on JavaScript & TypeScript applications; however, I am always ready for new challenges.
+**What I care about**
+- AI agents that do real work: tool design, evaluation with simulations, and safe hand-offs
+- Small, well-tested services and clear docs
+- Developer tooling that removes busywork
 
-### **Want to get to know me better?**
+**Tech I use most**
 
-Get in touch with me and let's have a coffee ☕️:
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/felipelealdefaria" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felipelealdefaria" /></a>
+**Find me**
 
-  <a href="mailto:felipelealdefaria@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-felipelealdefaria@gmail.com-ce2d28?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:felipelealdefaria@gmail.com"/></a>
-</p>  
+[LinkedIn](https://www.linkedin.com/in/felipelealdefaria) · [Email](mailto:felipelealdefaria@gmail.com) · [Website](https://felipelealdefaria.github.io)
+
+<sub>Software Engineering, UTFPR · 🇧🇷 → 🇦🇺</sub>
