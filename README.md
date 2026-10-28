@@ -1,24 +1,16 @@
 ### Hi, I'm Felipe 👋
 
-Senior Software Engineer at [Luxury Escapes](https://luxuryescapes.com) in Sydney, building **Voice AI for customer support**: AI agents that answer real phone calls, look up bookings and change them end to end, and hand off to a person when they should.
+**I turn LLMs into products that handle real customers.**
 
-Before that I built the **Cruises** vertical from its first line of code, and helped move customer support from Salesforce to Zendesk. I've been writing software since 2016, mostly in **TypeScript** and **Node.js**, across product, backend and integrations.
+Senior Software Engineer at Luxury Escapes in Sydney. I lead the engineering behind our voice AI agent, which answers customer calls and resolves them end to end.
 
-**What I care about**
-- AI agents that do real work: tool design, evaluation with simulations, and safe hand-offs
-- Small, well-tested services and clear docs
-- Developer tooling that removes busywork
+**What I've built**
+- 🎙️ **A production voice agent.** It verifies callers, finds their bookings and changes them live on the call, and hands off to a person with full context when it should.
+- 🧠 **The engineering around the model.** That covers tool design, guardrails against made-up answers, and A/B tested agent behaviour, so the model does the right thing and not just the plausible thing.
+- 🧪 **Agents tested like software.** Simulation suites catch behaviour regressions before customers do, so prompts and models change safely.
+- 📊 **Observability for AI.** Conversation data flows into the warehouse and onto live dashboards, so the business can see what the agent resolves and why.
+- 🔄 **Integrations under pressure.** I built a two-way CRM sync that moved a whole support operation to a new platform on a hard deadline.
 
-**Tech I use most**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-
-**Find me**
+**Stack:** TypeScript · Node.js · React · Next.js · PostgreSQL · BigQuery · AWS
 
 [LinkedIn](https://www.linkedin.com/in/felipelealdefaria) · [Email](mailto:felipelealdefaria@gmail.com) · [Website](https://felipelealdefaria.github.io)
-
-<sub>Software Engineering, UTFPR · 🇧🇷 → 🇦🇺</sub>
